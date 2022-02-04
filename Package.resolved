@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Pages",
+        "repositoryURL": "https://github.com/jackyoustra/Pages",
+        "state": {
+          "branch": "master",
+          "revision": "71e5f79282f4af5fdbcd53c48667cc22386e2443",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
