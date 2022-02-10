@@ -15,8 +15,8 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/jackyoustra/Pages",
-            .branch("master")
+            url: "https://github.com/youstra/Pages",
+            .branch("patch-1")
         ),
     ],
     targets: [

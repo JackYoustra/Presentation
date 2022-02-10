@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "Pages",
-        "repositoryURL": "https://github.com/jackyoustra/Pages",
+        "repositoryURL": "https://github.com/youstra/Pages",
         "state": {
-          "branch": "master",
-          "revision": "71e5f79282f4af5fdbcd53c48667cc22386e2443",
+          "branch": "patch-1",
+          "revision": "2e5a414f65de6d57301cba27dd670bd3dfe13c35",
           "version": null
         }
       }
